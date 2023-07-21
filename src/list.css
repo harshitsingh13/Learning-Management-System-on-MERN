@@ -1,0 +1,17 @@
+.text1{
+	position: absolute;
+	width: 204px;
+	height: 27px;
+	left: 20px;
+	top: 81px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 22px;
+	line-height: 27px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
